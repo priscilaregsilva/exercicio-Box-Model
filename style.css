@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.flor {
+    background-image: url('https://www.japaoemfoco.com/wp-content/uploads/2015/08/Os-Mais-Belos-Jardins-de-Flor-de-Lotus-do-Japao-photo-ac.com_.jpg');
+    width: 640px;
+    height: 427px;
+
+    border-radius: 50%;
+    border: 20px solid blueviolet;
+
+    box-shadow: inset 6px 6px 13px 3px red;
+    background-size: cover;
+
+    padding: 10px;
+
+    outline-width: 16px;
+    outline-style: double;
+    outline-color: palevioletred;
+}
+
+p {
+    text-align: center;
+    color: orange;
+    font-size: 50px;
+    top: 150px;
+    position: relative;
+    font-weight: bold;
+    font-style: italic;
+}
